@@ -3,13 +3,13 @@ const Number = {
     let endpoint  = ``;
     switch(choice) {
       default:
-        endpoint = `//numbersapi.com/${number}?json`;
+        endpoint = `http://numbersapi.com/${number}?json`;
         break;
       case ('math'):
-        endpoint = `//numbersapi.com/${number}/math?json`;
+        endpoint = `http://numbersapi.com/${number}/math?json`;
         break;
       case ('year'):
-        endpoint = `//numbersapi.com/${number}/year?json`;
+        endpoint = `http://numbersapi.com/${number}/year?json`;
         break;
       }
     return fetch(endpoint).then(response => {
