@@ -1,0 +1,8 @@
+.Examples {
+  display: inline-flex;
+  margin-top: 3rem;
+}
+
+.child {
+  flex: 1;
+}
