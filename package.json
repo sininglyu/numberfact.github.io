@@ -2,7 +2,7 @@
   "name": "numbers",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sininglyu.github.io/numberfact.github.io/public/index.html",
+  "homepage": "https://sininglyu.github.io/numberfact.github.io/public",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
