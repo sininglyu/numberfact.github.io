@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.d44a2538.css",
-    "main.js": "./static/js/main.52545d36.js",
-    "static/js/787.05cba289.chunk.js": "./static/js/787.05cba289.chunk.js",
-    "index.html": "./index.html",
-    "main.d44a2538.css.map": "./static/css/main.d44a2538.css.map",
-    "main.52545d36.js.map": "./static/js/main.52545d36.js.map",
-    "787.05cba289.chunk.js.map": "./static/js/787.05cba289.chunk.js.map"
+    "main.css": "/numberfact.github.io/public/static/css/main.d44a2538.css",
+    "main.js": "/numberfact.github.io/public/static/js/main.002d0b00.js",
+    "static/js/787.05cba289.chunk.js": "/numberfact.github.io/public/static/js/787.05cba289.chunk.js",
+    "index.html": "/numberfact.github.io/public/index.html",
+    "main.d44a2538.css.map": "/numberfact.github.io/public/static/css/main.d44a2538.css.map",
+    "main.002d0b00.js.map": "/numberfact.github.io/public/static/js/main.002d0b00.js.map",
+    "787.05cba289.chunk.js.map": "/numberfact.github.io/public/static/js/787.05cba289.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d44a2538.css",
-    "static/js/main.52545d36.js"
+    "static/js/main.002d0b00.js"
   ]
 }
